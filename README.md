@@ -4,3 +4,5 @@
 https://www.mongodb.com/try/download/community
 
 ## 2)check the version properly dowloaded on computer
+
+![Screenshot](mongo1.png)
